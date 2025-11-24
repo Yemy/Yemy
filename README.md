@@ -1,6 +1,21 @@
 # 💫 About Me:
-Generate a GitHub profile README bio for me in the style of GPRM (GitHub Profile ReadMe Generator). Use these sections with short, casual sentences and emojis at the start of each line:<br>🔭 I’m currently working on<br>🤝 I’m looking to collaborate on<br>👐 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>Make it friendly, simple, and professional. Fill in with realistic made-up examples if I don’t provide details. Keep each section to one sentence or two at most.
+🔭 I've been and I’m currently working on
+Building scalable web apps at Adey Technologies and improving my platforms like Kulu Jobs, Kazna Equbs, Nayna Properties, H%E Digitals, Fidel Tutors, iCodePlus, (Mobile apps, Websites and Management Sytems, for Business) and Dorho AI Smart Farming.
 
+🤝 I’m looking to collaborate on
+Open-source tools, AI-powered solutions, and impactful projects for Africa and beyond.
+
+👐 I’m looking for help with
+Growing my tech communities, especially my programming students network and AI for Agriculture in Ethiopia, Africa and beyond.
+
+🌱 I’m currently learning
+Data Science, AI, Advanced Laravel, cloud architecture, and better DevOps practices.
+
+💬 Ask me about
+Full-stack development, Next.js, Laravel, Django, React, Python, JavaScript, C, startups, mentoring, and building MVPs fast.
+
+⚡ Fun fact
+I love turning real community problems into tech products—and I’ve been doing it since university.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Yemy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yemybold) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yemybold) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yemane-birhane-8816161b7) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yemybold) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yemane_birhane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yemybold@gmail.com) 
