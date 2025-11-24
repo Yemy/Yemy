@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I've been and I’m currently working on
-Building scalable web apps at Adey Technologies and improving my platforms like Kulu Jobs, Kazna Equbs, Nayna Properties, H%E Digitals, Fidel Tutors, iCodePlus, (Mobile apps, Websites and Management Sytems, for Business) and Dorho AI Smart Farming.
+Building scalable web apps at Adey Technologies and improving my platforms like Kulu Jobs, Kazna Equbs, Nayna Properties, H&E Digitals, Fidel Tutors, iCodePlus, (Mobile apps, Websites and Management Sytems, for Business) and Dorho AI Smart Farming.
 
 🤝 I’m looking to collaborate on
 Open-source tools, AI-powered solutions, and impactful projects for Africa and beyond.
