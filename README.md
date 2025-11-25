@@ -1,21 +1,21 @@
 # 💫 About Me:
 🔭 I've been and I’m currently working on
-Building scalable web apps at Adey Technologies and improving my platforms like Kulu Jobs, Kazna Equbs, Nayna Properties, H&E Digitals, Fidel Tutors, iCodePlus, (Mobile apps, Websites and Management Sytems, for Business) and Dorho AI Smart Farming.
-💪 My previous Works Includes the ff
-  ➡️ https://edvaccollege.edu.et/
-  ➡️ https://mandarecycling.com/
-  ➡️ https://safetytravelsolutions.com/
-  ➡️ https://kaznaequbs.com/
-  ➡️ https://mansaexpress.netlify.app/
-  ➡️ https://omegaacademyandkg.com/
-  ➡️ https://virginfashionstore.com/
-  💫✨My startups:
-    ➡️ http://adeytechnologies.com/ or http://adeytech.pro.et/
-    ➡️ http://dorhopoultry.com/
-    ➡️ http://kulujobs.pro.et/
-  🧔‍♂️Portfolio website:
-    ➡️ https://yemane.pro.et/ or https://yemane.vercel.app/
-    ➡️ https://yemi-bold.web.app/
+Building scalable web apps at Adey Technologies and improving my platforms like Kulu Jobs, Kazna Equbs, Nayna Properties, H&E Digitals, Fidel Tutors, iCodePlus, (Mobile apps, Websites and Management Sytems, for Business) and Dorho AI Smart Farming. </br>
+💪 My previous Works Includes the ff </br>
+  ➡️ https://edvaccollege.edu.et/ </br>
+  ➡️ https://mandarecycling.com/ </br>
+  ➡️ https://safetytravelsolutions.com/ </br>
+  ➡️ https://kaznaequbs.com/ </br>
+  ➡️ https://mansaexpress.netlify.app/ </br>
+  ➡️ https://omegaacademyandkg.com/ </br>
+  ➡️ https://virginfashionstore.com/ </br>
+  💫✨My startups: </br>
+    ➡️ http://adeytechnologies.com/ or http://adeytech.pro.et/ </br>
+    ➡️ http://dorhopoultry.com/ </br>
+    ➡️ http://kulujobs.pro.et/ </br>
+  🧔‍♂️Portfolio website: </br>
+    ➡️ https://yemane.pro.et/ or https://yemane.vercel.app/ </br>
+    ➡️ https://yemi-bold.web.app/ </br>
     
 🤝 I’m looking to collaborate on
 Open-source tools, AI-powered solutions, and impactful projects for Africa and beyond.
