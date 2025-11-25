@@ -1,7 +1,22 @@
 # 💫 About Me:
 🔭 I've been and I’m currently working on
 Building scalable web apps at Adey Technologies and improving my platforms like Kulu Jobs, Kazna Equbs, Nayna Properties, H&E Digitals, Fidel Tutors, iCodePlus, (Mobile apps, Websites and Management Sytems, for Business) and Dorho AI Smart Farming.
-
+💪 My previous Works Includes the ff
+  ➡️ https://edvaccollege.edu.et/
+  ➡️ https://mandarecycling.com/
+  ➡️ https://safetytravelsolutions.com/
+  ➡️ https://kaznaequbs.com/
+  ➡️ https://mansaexpress.netlify.app/
+  ➡️ https://omegaacademyandkg.com/
+  ➡️ https://virginfashionstore.com/
+  💫✨My startups:
+    ➡️ http://adeytechnologies.com/ or http://adeytech.pro.et/
+    ➡️ http://dorhopoultry.com/
+    ➡️ http://kulujobs.pro.et/
+  🧔‍♂️Portfolio website:
+    ➡️ https://yemane.pro.et/ or https://yemane.vercel.app/
+    ➡️ https://yemi-bold.web.app/
+    
 🤝 I’m looking to collaborate on
 Open-source tools, AI-powered solutions, and impactful projects for Africa and beyond.
 
