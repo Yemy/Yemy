@@ -9,6 +9,8 @@ Building scalable web apps at Adey Technologies and improving my platforms like 
   ➡️ https://mansaexpress.netlify.app/ </br>
   ➡️ https://omegaacademyandkg.com/ </br>
   ➡️ https://virginfashionstore.com/ </br>
+  ➡️ https://naynahomes.com/ </br>
+  ➡️ https://dasscom.netlify.app/ </br>
   💫✨My startups: </br>
     ➡️ http://adeytechnologies.com/ or http://adeytech.pro.et/ </br>
     ➡️ http://dorhopoultry.com/ </br>
